@@ -1,3 +1,7 @@
+Original Repository (Source): [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) 
+
+
+
 Gadgetbridge is now hosted on [codeberg.org](https://codeberg.org/Freeyourgadget/Gadgetbridge/).
 
 <a href="https://codeberg.org/Freeyourgadget/Gadgetbridge/">
